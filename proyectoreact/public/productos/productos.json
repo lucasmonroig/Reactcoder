@@ -1,0 +1,29 @@
+[
+
+    {
+        "id": 1,
+        "title": "cuadro",
+        "description": "lorem",
+        "price": 1000,
+        "pictureURL": "./images/download.jpg",
+        "stock": 3
+        
+    },
+    {
+        "id": 2,
+        "title": "cuadro P",
+        "description": "lorem",
+        "price": 2000,
+        "pictureURL": "https://www.google.com/search?q=imagenes&rlz=1C1CHBD_es&sxsrf=ALeKk00r62KihA2vGJ07OvHllLTkA5ic6w:1624403867420&tbm=isch&source=iu&ictx=1&fir=QyjckPLcTSohTM%252C53-N2MbZIY2M8M%252C_&vet=1&usg=AI4_-kR0rBb1hdwya7kdqp0lkMXWyeQTEA&sa=X&ved=2ahUKEwjowvT7r6zxAhWUpJUCHTzVCjwQ9QF6BAgQEAE#imgrc=QyjckPLcTSohTM",
+        "stock": 4
+    },
+    {
+        "id": 3,
+        "title": "cuadro L",
+        "description": "lorem",
+        "price": 3000,
+        "pictureURL": "https://www.google.com/search?q=imagenes&rlz=1C1CHBD_es&sxsrf=ALeKk00r62KihA2vGJ07OvHllLTkA5ic6w:1624403867420&tbm=isch&source=iu&ictx=1&fir=QyjckPLcTSohTM%252C53-N2MbZIY2M8M%252C_&vet=1&usg=AI4_-kR0rBb1hdwya7kdqp0lkMXWyeQTEA&sa=X&ved=2ahUKEwjowvT7r6zxAhWUpJUCHTzVCjwQ9QF6BAgQEAE#imgrc=QyjckPLcTSohTM",
+        "stock": 5
+    }
+
+]
